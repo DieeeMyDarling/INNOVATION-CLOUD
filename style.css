@@ -1,0 +1,130 @@
+/*main*/
+.glav_str{
+	padding: auto;
+	padding-bottom: 100px;
+	padding-top: 100px;
+	background-image: url("img/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	width: auto;
+	color: white;
+	text-align: center;
+
+}
+.glav_str h1{
+	font-family: Zen dots;
+	text-align: center;
+	font-size: 160px;
+	height: 300px;
+	bottom: 100px;
+	align-items: center;
+}
+button{
+	margin-top: 50px;
+}
+
+}
+.glav_str p{
+	font-family: sans-serif;
+	color: white;
+	bottom: 140px;
+
+}
+.glav_str button{
+	color: white;
+	background-color: black;
+	font-family: Tahoma;
+	border-color: black;
+	padding: 14px;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+/*body*/
+.menu{
+	display: flex;
+	justify-content: flex-start;
+	border-top: 100px;
+	background-color: black;
+	top: 600px;
+	padding: 20px 100px;
+}
+li{
+	list-style-type: none;
+	padding-right: 20px;
+	color: grey;
+	font-size: 20px;
+}
+/*cloud*/
+.text{
+	display: flex;
+	justify-content:end;
+	flex-direction: column;
+	font-size: 15px;
+	padding-bottom: 5px;
+	border-color: black;
+	padding-right: 190px;
+	padding-left: 150px;
+}
+.text h1{
+	font-size: 600px;
+}
+.info{
+	padding: 70px;
+}
+.cloud{
+	display: flex;
+	justify-content: flex-start;
+	height: 150px;
+	width:250px;
+    position: relative;
+    display: inline;
+    float: left;
+    padding-left: 190px;
+}
+/*footer*/
+.fo{
+	
+	padding-bottom: 100px;
+	padding-top: 100px;
+	background-image: url("img/tg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-right: 100px;
+	width: auto;
+	color: white;
+
+}
+.fo h1{
+	height: 50px;
+	bottom: 100px;
+	text-align: right;
+	font-size: 40px;
+	padding-top: 200px;
+
+}
+.fo p{
+	text-align: right;
+	font-size: 25px;
+	padding-bottom: 120px;
+
+}
+
+.footer{
+	padding: 30px;
+	background-color: black;
+}
+.contacts{
+	font-family: Zen dots;
+	color:grey;
+}
+.fo button{
+	color: white;
+	background-color: black;
+	font-family: Tahoma;
+	border-color: black;
+	padding: 15px;
+	padding-right: 100px;
+	padding-left: 100px;
+	margin-left: 1350px;
+	margin-bottom:;
